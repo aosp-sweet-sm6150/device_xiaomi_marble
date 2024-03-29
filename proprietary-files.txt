@@ -1117,6 +1117,10 @@ vendor/firmware/a730_zap.mbn
 vendor/firmware/a730_zap.mdt
 vendor/firmware/gmu_gen70000.bin
 
+#QCC
+vendor/lib/libgrpc++_unsecure.so
+vendor/lib64/libgrpc++_unsecure.so
+
 # Sensors
 vendor/etc/sensors/config/lightSensorConfig.json
 vendor/etc/sensors/config/lsm6dso_0.json
